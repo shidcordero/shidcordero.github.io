@@ -287,3 +287,47 @@ a:hover, a:focus, a:active {
     height: 50px;
     width: 85px;
 }
+
+.fa-custom-nuxt:before{
+	content: "\0000a0";
+	background-image: url(../img/nuxt.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 45px;
+	width: 50px;
+}
+
+.fa-custom-nuxt:hover:before{
+	content: "\0000a0";
+	background-image: url(../img/nuxt-hover.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 45px;
+	width: 50px;
+}
+
+.fa-custom-ionic:before{
+	content: "\0000a0";
+	background-image: url(../img/ionic-capacitor.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 48px;
+	width: 42px;
+}
+
+.fa-custom-ionic:hover:before{
+	content: "\0000a0";
+	background-image: url(../img/ionic-capacitor-hover.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 48px;
+	width: 42px;
+}
