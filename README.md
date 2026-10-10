@@ -19,7 +19,7 @@ Open http://localhost:4173.
 - `index.html`: portfolio content and metadata.
 - `css/portfolio.css`: responsive layout and visual design.
 - `js/portfolio.js`: navigation, scroll reveals, hover lighting and a subtle animated background.
-- `img/profile.png`: original portrait.
+- `img/profile-2026.png`: updated portrait.
 - `assets/Rashid-Cordero-CV.pdf`: current downloadable CV.
 
 Animations respect the system's reduced-motion preference. Background animation pauses when the hero is offscreen or the browser tab is hidden. The page remains readable with JavaScript disabled. Typography uses Google Fonts with system fallbacks.
