@@ -28,7 +28,7 @@ Legacy Bootstrap template resources remain in the repository for reference, but 
 
 ## Updating content
 
-Edit `index.html` and replace the PDF in `assets/` when updating the CV. Mars Group is a client engagement through GistLens / Plainstep, not a separate employer. The Plainstep start date represents continuous company tenure, while the title is the current role.
+Edit `index.html` and replace the PDF in `assets/` when updating the CV. MARS Group is a client engagement through GistLens / Plainstep, not a separate employer. The Plainstep start date represents continuous company tenure, while the title is the current role.
 
 ## Checks performed
 
